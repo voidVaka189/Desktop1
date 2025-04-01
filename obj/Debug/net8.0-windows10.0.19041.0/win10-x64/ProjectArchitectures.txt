@@ -1,0 +1,1 @@
+C:\Users\joiva\source\repos\MauiApp2\MauiApp2.csproj;x64
