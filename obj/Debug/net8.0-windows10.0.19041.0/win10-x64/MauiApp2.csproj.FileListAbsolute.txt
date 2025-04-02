@@ -210,3 +210,4 @@ C:\Users\joiva\source\repos\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-
 C:\Users\joiva\source\repos\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\joiva\source\repos\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\joiva\source\repos\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\joiva\source\repos\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp2.sourcelink.json

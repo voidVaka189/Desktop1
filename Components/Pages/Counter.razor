@@ -1,16 +1,45 @@
 ﻿@page "/counter"
 
-<h1>Counter</h1>
-
-<p role="status">Current count: @currentCount</p>
-
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<h1>Счетчик степени числа</h1>
+<p>
+    <label>Основание степени:</label>
+    <input type="number" @bind-value="@numberInput" />
+</p>
+<p>
+    <label>Показатель степени:</label>
+    <input type="number" @bind-value="@powerOfTheNum" />
+</p>
+<p> Ответ: @answer</p>
+<button @onclick="DegreeCheck">Посчитать</button>
 
 @code {
-    private int currentCount = 0;
+    int numberInput = 0;
+    int powerOfTheNum = 0;
+    string answer = "...";
 
-    private void IncrementCount()
+    private void DegreeCheck()
     {
-        currentCount++;
+        int integerAnswer = 1;
+        if (powerOfTheNum == 1) answer = numberInput.ToString();
+        if (numberInput == 0) answer = numberInput.ToString();
+        if (powerOfTheNum == 0) answer = "1";
+        if (powerOfTheNum > 0)
+        {
+            for (int i = 1; i <= powerOfTheNum; i++)
+            {
+                integerAnswer = integerAnswer * numberInput;
+            }
+            answer = $"{integerAnswer}";
+        }
+        else if (powerOfTheNum < 0)
+        {
+            double result = numberInput;
+            for (int i = 1; i < powerOfTheNum * (-1); i++)
+            {
+                result = result * numberInput;
+            }
+            result = 1 / result;
+            answer = $"{result}";
+        }
     }
 }
