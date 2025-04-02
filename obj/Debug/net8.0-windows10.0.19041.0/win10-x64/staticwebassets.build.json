@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ssLU58nMMkphgjob+JHnvbKAqNCabmbfsuEDmucLLBw=",
+  "Hash": "dV3UPN24eeUuSmKKoAgyPaT/WNzplgB8aJfqiK8CNdw=",
   "Source": "MauiApp2",
   "BasePath": "/",
   "Mode": "Root",
@@ -157,8 +157,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "e2hv3ztryh",
-      "Integrity": "JkdjAEYZrdAUVjtkw7cDrAj3mk5PxB4aJepaXCG0/qY=",
+      "Fingerprint": "x7qs3j3irs",
+      "Integrity": "Q82LPeY0HEe68fZVZwOf84tNNyrsBha+mi8VMHIf7mM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -494,51 +494,6 @@
       ]
     },
     {
-      "Route": "index.e2hv3ztryh.html",
-      "AssetFile": "C:\\Users\\joiva\\source\\repos\\MauiApp2\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "873"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"JkdjAEYZrdAUVjtkw7cDrAj3mk5PxB4aJepaXCG0/qY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 13:35:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "e2hv3ztryh"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-JkdjAEYZrdAUVjtkw7cDrAj3mk5PxB4aJepaXCG0/qY="
-        }
-      ]
-    },
-    {
       "Route": "index.html",
       "AssetFile": "C:\\Users\\joiva\\source\\repos\\MauiApp2\\wwwroot\\index.html",
       "Selectors": [],
@@ -549,7 +504,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "873"
+          "Value": "901"
         },
         {
           "Name": "Content-Type",
@@ -557,11 +512,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JkdjAEYZrdAUVjtkw7cDrAj3mk5PxB4aJepaXCG0/qY=\""
+          "Value": "\"Q82LPeY0HEe68fZVZwOf84tNNyrsBha+mi8VMHIf7mM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 01 Apr 2025 13:35:30 GMT"
+          "Value": "Wed, 02 Apr 2025 12:57:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -571,7 +526,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JkdjAEYZrdAUVjtkw7cDrAj3mk5PxB4aJepaXCG0/qY="
+          "Value": "sha256-Q82LPeY0HEe68fZVZwOf84tNNyrsBha+mi8VMHIf7mM="
+        }
+      ]
+    },
+    {
+      "Route": "index.x7qs3j3irs.html",
+      "AssetFile": "C:\\Users\\joiva\\source\\repos\\MauiApp2\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "901"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Q82LPeY0HEe68fZVZwOf84tNNyrsBha+mi8VMHIf7mM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 02 Apr 2025 12:57:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x7qs3j3irs"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Q82LPeY0HEe68fZVZwOf84tNNyrsBha+mi8VMHIf7mM="
         }
       ]
     },

@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\joiva\source\repos\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-04-02T12:24:58.419</Modified>
+      <Modified>2025-04-02T12:57:39.411</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joiva\source\repos\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp2.dll">
       <PackagePath>MauiApp2.dll</PackagePath>
-      <Modified>2025-04-02T12:24:57.718</Modified>
+      <Modified>2025-04-02T12:53:46.790</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joiva\source\repos\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiApp2.exe</PackagePath>
-      <Modified>2025-04-02T12:24:57.806</Modified>
+      <Modified>2025-04-02T12:53:46.880</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joiva\source\repos\MauiApp2\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -72,7 +72,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joiva\source\repos\MauiApp2\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
-      <Modified>2025-04-01T13:35:30.990</Modified>
+      <Modified>2025-04-02T12:57:37.235</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joiva\source\repos\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
@@ -660,7 +660,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joiva\source\repos\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.build.endpoints.json">
       <PackagePath>MauiApp2.staticwebassets.endpoints.json</PackagePath>
-      <Modified>2025-04-01T13:35:37.854</Modified>
+      <Modified>2025-04-02T12:57:39.206</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joiva\.nuget\packages\microsoft.maui.controls.compatibility\8.0.100\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
