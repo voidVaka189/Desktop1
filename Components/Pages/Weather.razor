@@ -1,61 +1,46 @@
 ﻿@page "/weather"
 
-<h1>Weather</h1>
+<h1>Подсчет квадратных уравнений</h1>
 
-<p>This component demonstrates showing data.</p>
+<h2>Коэффициенты:</h2>
 
-@if (forecasts == null)
+<p>
+    <label>a:</label>
+    <input type="number" @bind-value="@coefA" />
+    <label>b:</label>
+    <input type="number" @bind-value="@coefB" />
+    <label>c:</label>
+    <input type="number" @bind-value="@coefC" />
+</p>
+<p>@coefA x&sup2; + @coefB x + @coefC = 0</p>
+<p>Дискриминант: @discriminant</p>
+@if (discriminant > 0) {<p>Ответ: x1 = @x1; x2 = @x2</p>}
+@if (discriminant == 0) {<p>Ответ: x = @x1</p>}
+@if (discriminant < 0) {<p>Ответ: Корней нет</p>}
+<button @onclick="MathEquations">Посчитать</button>
+
+@code 
 {
-    <p><em>Loading...</em></p>
-}
-else
-{
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Date</th>
-                <th>Temp. (C)</th>
-                <th>Temp. (F)</th>
-                <th>Summary</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var forecast in forecasts)
-            {
-                <tr>
-                    <td>@forecast.Date.ToShortDateString()</td>
-                    <td>@forecast.TemperatureC</td>
-                    <td>@forecast.TemperatureF</td>
-                    <td>@forecast.Summary</td>
-                </tr>
-            }
-        </tbody>
-    </table>
-}
+    double coefA = 0;
+    double coefB = 0;
+    double coefC = 0;
+    string answer = "...";
+    double discriminant = 0;
+    double x1 = 0;
+    double x2 = 0;
 
-@code {
-    private WeatherForecast[]? forecasts;
-
-    protected override async Task OnInitializedAsync()
+    private void MathEquations() 
     {
-        // Simulate asynchronous loading to demonstrate a loading indicator
-        await Task.Delay(500);
+        discriminant = (coefB * coefB) - 4 * coefA * coefC;
 
-        var startDate = DateOnly.FromDateTime(DateTime.Now);
-        var summaries = new[] { "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching" };
-        forecasts = Enumerable.Range(1, 5).Select(index => new WeatherForecast
+        if (discriminant > 0)
         {
-            Date = startDate.AddDays(index),
-            TemperatureC = Random.Shared.Next(-20, 55),
-            Summary = summaries[Random.Shared.Next(summaries.Length)]
-        }).ToArray();
-    }
-
-    private class WeatherForecast
-    {
-        public DateOnly Date { get; set; }
-        public int TemperatureC { get; set; }
-        public string? Summary { get; set; }
-        public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
+            x1 = Math.Round((coefB * (-1) + Math.Sqrt(discriminant)) / (coefA * 2), 2);
+            x2 = Math.Round((coefB * (-1) - Math.Sqrt(discriminant)) / (coefA * 2), 2);
+        }
+        else if (discriminant == 0)
+        {
+            x1 = Math.Round((coefB * (-1)) / (coefA * 2), 2);
+        }
     }
 }

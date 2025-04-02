@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\joiva\source\repos\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-04-02T12:11:50.479</Modified>
+      <Modified>2025-04-02T12:24:58.419</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joiva\source\repos\MauiApp2\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\MauiApp2.dll">
       <PackagePath>MauiApp2.dll</PackagePath>
-      <Modified>2025-04-02T12:11:49.672</Modified>
+      <Modified>2025-04-02T12:24:57.718</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joiva\source\repos\MauiApp2\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiApp2.exe</PackagePath>
-      <Modified>2025-04-02T12:11:49.744</Modified>
+      <Modified>2025-04-02T12:24:57.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\joiva\source\repos\MauiApp2\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
