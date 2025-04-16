@@ -3,40 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\joiva\\source\\repos\\MauiApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|c:\\users\\joiva\\source\\repos\\mauiapp2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|c:\\users\\joiva\\source\\repos\\mauiapp2\\components\\pages\\variants\\variant1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|solutionrelative:components\\pages\\variants\\variant1.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|c:\\users\\joiva\\source\\repos\\mauiapp2\\components\\pages\\exam.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|solutionrelative:components\\pages\\exam.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|c:\\users\\joiva\\source\\repos\\mauiapp2\\components\\pages\\quadratic_equations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|solutionrelative:components\\pages\\quadratic_equations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|c:\\users\\joiva\\source\\repos\\mauiapp2\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|c:\\users\\joiva\\source\\repos\\mauiapp2\\components\\pages\\main_page.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|solutionrelative:components\\pages\\main_page.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|c:\\users\\joiva\\source\\repos\\mauiapp2\\components\\pages\\degree_of_the_number.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|solutionrelative:components\\pages\\degree_of_the_number.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|c:\\users\\joiva\\source\\repos\\mauiapp2\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|c:\\users\\joiva\\source\\repos\\mauiapp2\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|c:\\users\\joiva\\source\\repos\\mauiapp2\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|solutionrelative:mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|c:\\users\\joiva\\source\\repos\\mauiapp2\\components\\pages\\quadratic_equations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|solutionrelative:components\\pages\\quadratic_equations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|c:\\users\\joiva\\source\\repos\\mauiapp2\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|solutionrelative:components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|c:\\users\\joiva\\source\\repos\\mauiapp2\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|solutionrelative:mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|c:\\users\\joiva\\source\\repos\\mauiapp2\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|c:\\users\\joiva\\source\\repos\\mauiapp2\\components\\pages\\degree_of_the_number.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8252B0C9-6568-4344-8267-89075175717E}|MauiApp2.csproj|solutionrelative:components\\pages\\degree_of_the_number.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,11 +50,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Quadratic_equations.razor",
               "DocumentMoniker": "C:\\Users\\joiva\\source\\repos\\MauiApp2\\Components\\Pages\\Quadratic_equations.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Quadratic_equations.razor",
@@ -64,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\joiva\\source\\repos\\MauiApp2\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
@@ -78,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\joiva\\source\\repos\\MauiApp2\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\index.html",
@@ -106,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Degree_of_the_number.razor",
               "DocumentMoniker": "C:\\Users\\joiva\\source\\repos\\MauiApp2\\Components\\Pages\\Degree_of_the_number.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Degree_of_the_number.razor",
@@ -115,8 +119,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-02T12:10:51.643Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -126,14 +129,28 @@
               "RelativeDocumentMoniker": "Components\\Pages\\Exam.razor",
               "ToolTip": "C:\\Users\\joiva\\source\\repos\\MauiApp2\\Components\\Pages\\Exam.razor",
               "RelativeToolTip": "Components\\Pages\\Exam.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-16T12:20:06.498Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "Variant1.razor",
+              "DocumentMoniker": "C:\\Users\\joiva\\source\\repos\\MauiApp2\\Components\\Pages\\Variants\\Variant1.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Variants\\Variant1.razor",
+              "ToolTip": "C:\\Users\\joiva\\source\\repos\\MauiApp2\\Components\\Pages\\Variants\\Variant1.razor",
+              "RelativeToolTip": "Components\\Pages\\Variants\\Variant1.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-16T12:48:24.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\joiva\\source\\repos\\MauiApp2\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
@@ -141,7 +158,8 @@
               "RelativeToolTip": "MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T10:11:20.472Z"
+              "WhenOpened": "2025-04-06T10:11:20.472Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -153,11 +171,12 @@
               "RelativeToolTip": "MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T10:01:42.768Z"
+              "WhenOpened": "2025-04-06T10:01:42.768Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Users\\joiva\\source\\repos\\MauiApp2\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "Components\\Layout\\MainLayout.razor",
@@ -165,7 +184,8 @@
               "RelativeToolTip": "Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-06T09:57:42.891Z"
+              "WhenOpened": "2025-04-06T09:57:42.891Z",
+              "EditorCaption": ""
             }
           ]
         }
